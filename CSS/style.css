@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .margin{
+    background: "https://newevolutiondesigns.com/images/freebies/green-wallpaper-3.jpg";
+} */
+
+.textcolor{
+    color: lightyellow;
+}
+
+.navbar{
+    margin-top: 10px;
+    width: 98%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 9;
+    background-image: url("https://i.pinimg.com/originals/46/1d/25/461d254f8563f8945ce3a385f289df17.jpg")
+}
+
+.navbar span{
+    color: rgb(0, 0, 0);
+}
+
+.paragraph{
+    color: mintcream;
+    border: 2px solid whitesmoke;
+    margin: 100px;
+    text-align: center;
+    padding: 50px;
+    background-image: url("https://media.istockphoto.com/vectors/black-background-vector-id1167050865?k=6&m=1167050865&s=612x612&w=0&h=I-wf_Vv-MzqTfcYd8AxZKKvXGM3yC6DNNAEOHswvaMY=");
+    
+}
+
+.paragraph h3{
+    text-align: center;
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 15px;
+    background-color: black;
+}
+
+.login{
+    margin-top: 40px;
+    margin-left: 38%;
+    margin-right: 40px;
+    border: 2px solid beige;
+    padding: 30px;
+    background-image: url("https://img.freepik.com/free-photo/room-with-concrete-floor-smoke-background_9083-2991.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    /* float: right; */
+    text-align: justify;
+}
+
+.signup{
+    margin-top: 40px;
+    margin: 5em;
+    margin-left: 9%;
+    width:10em;
+    margin-right: 40px;
+    border: 2px solid beige;
+    padding: 50px;
+    background-image: url("https://img.freepik.com/free-photo/room-with-concrete-floor-smoke-background_9083-2991.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align:justify;
+}
+
+.card{
+    margin: 15px;
+    margin-left: 5%;
+    padding: 10px;
+}
+.margin{
+    margin-left: 100px;
+}
+
+.contents{
+    text-align: justify;
+    color: white;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    background:url("https://media.istockphoto.com/vectors/black-background-vector-id1167050865?k=6&m=1167050865&s=612x612&w=0&h=I-wf_Vv-MzqTfcYd8AxZKKvXGM3yC6DNNAEOHswvaMY=");
+    background-repeat: repeat;
+    background-size:auto
+}
+
+.contents h3{
+    text-align: center;
+}
+
